@@ -1,0 +1,3 @@
+django-admin startproject serwis
+cd serwis
+django-admin startapp repairs
